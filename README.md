@@ -10,7 +10,7 @@ Guodong Liu [@Goudong Liu](https://github.com/Vamix)
 
 Yiwei Li    [@Yiwei Li   ](https://github.com/leepoly)
 
-Penghui Li  [@Penghui Li ](https://github.com/DoubiLi)
+Penghui Li  [@Penghui Li ](https://github.com/peng-hui)
 
 #lab2:
 
